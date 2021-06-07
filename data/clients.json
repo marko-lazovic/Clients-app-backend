@@ -1,0 +1,25 @@
+{
+   "clients": [
+      {
+         "id": 0,
+         "firstName": "John",
+         "lastName": "Doe",
+         "phone": "123-4567",
+         "company": "Random"
+      },
+      {
+         "id": 1,
+         "firstName": "Jane",
+         "lastName": "Doe",
+         "phone": "393-6548",
+         "company": "Example"
+      },
+      {
+         "id": 2,
+         "firstName": "Random",
+         "lastName": "Person",
+         "phone": "532-0567",
+         "company": "Lorem Ipsum"
+      }
+   ]
+}
